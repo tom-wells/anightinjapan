@@ -21,8 +21,8 @@ defaults:
     layout: post
 email: tom.wells89@example.com
 description: A blog about Japan.
-baseurl: ''
-url: ''
+baseurl: 
+url: 
 twitter_username: tomwells89
 github_username: tom-wells
 markdown: kramdown
